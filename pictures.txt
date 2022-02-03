@@ -1,0 +1,16 @@
+-rw-r--r-- 1 carlosanq carlosanq  25K Jan 23 11:07 charlie brown.jpg
+-rw-r--r-- 1 carlosanq carlosanq  31K Jan 23 11:07 gamer-1200x600.jpg
+-rw-r--r-- 1 carlosanq carlosanq 1.4M Jan 23 10:41 astronauta-con-universo-de-fondo-gratistodo.com_.jpg
+-rw-r--r-- 1 carlosanq carlosanq 1.4M Jan 23 11:07 republic of gamer verde.jpg
+-rw-r--r-- 1 carlosanq carlosanq 113K Jan 23 11:07 the-peanuts-movie-flying-ace.jpg
+-rw-r--r-- 1 carlosanq carlosanq 145K Jan 23 11:07 maiaynya.jpg
+-rw-r--r-- 1 carlosanq carlosanq 201K Jan 23 11:07 raptor.jpg
+-rw-r--r-- 1 carlosanq carlosanq 272K Jan 23 11:07 republic of gamer.jpg
+-rw-r--r-- 1 carlosanq carlosanq 313K Jan 23 11:07 lenguaje-programacion 2.jpg
+-rw-r--r-- 1 carlosanq carlosanq 347K Jan 23 11:07 one-piece-new-world.jpg
+-rw-r--r-- 1 carlosanq carlosanq 4.4M Jan 23 11:07 ford raptor.jpg
+-rw-r--r-- 1 carlosanq carlosanq 463K Jan 23 11:07 lenguajes-programacion.jpg
+-rw-r--r-- 1 carlosanq carlosanq 502K Jan 23 11:07 luffy sabo ace.jpg
+-rw-r--r-- 1 carlosanq carlosanq 799K Jan 23 11:07 paisaje.jpg
+-rw-r--r-- 1 carlosanq carlosanq 832K Jan 23 11:07 montain1.jpg
+total 12M
